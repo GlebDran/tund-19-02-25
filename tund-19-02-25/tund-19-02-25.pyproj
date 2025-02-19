@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>ed8011d4-d6f6-44bc-a96b-32452fdf5357</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>tund_19_02_25.py</StartupFile>
+    <StartupFile>Tund11(Tkinter).py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,6 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Tund11%28Tkinter%29.py" />
     <Compile Include="tund_19_02_25.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
